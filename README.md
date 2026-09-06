@@ -3,7 +3,7 @@
 Independent portfolio project by Raihan Farhad Sakil.
 
 ## Project question
-If I were supporting a Eurex fixed-income product team, how could I use public trading statistics to understand where activity is concentrated, how quarterly futures rolls affect the numbers, and where a real product-growth problem may exist?
+How can public Eurex trading statistics be used to understand where activity is concentrated across European government-bond futures, how quarterly futures rolls affect the numbers, and where a product-growth opportunity or adoption challenge may exist?
 
 ## What I analysed
 - Euro-Schatz Futures (FGBS) — short German government-bond exposure
@@ -54,10 +54,10 @@ python scripts/build_project.py
 pytest -q
 ```
 
-## Why this fits fixed-income analysis
-The project mirrors a junior exchange/product-analysis workflow: collect market data, validate it, understand futures-specific effects, compare products, identify a product-growth question, and turn the analysis into a management recommendation.
+## Why this project matters
+The project follows a practical exchange/product-analysis workflow: collect market data, validate it, understand futures-specific effects, compare products, identify a product-growth question, and turn the analysis into a management recommendation.
 
 ## Important limitation
 This is a public-data portfolio project, not an internal Eurex liquidity study. A production study should add bid/ask spreads, order-book depth, trade-size distribution, client/account segmentation, market-maker quote quality, TES/block activity, execution costs and Bloomberg/internal data where permitted.
 
-See `reports/management_memo.md`, `docs/methodology.md` and `docs/concepts_for_interview.md`.
+See `reports/management_memo.md`, `docs/methodology.md`, `docs/concepts.md` and `docs/sources.md`.
