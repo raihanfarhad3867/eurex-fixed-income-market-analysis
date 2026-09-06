@@ -8,7 +8,7 @@ Completed:
 - ADV, market-share, MoM and roll-month analysis
 - German benchmark and sovereign-product comparison
 - FBEU product-adoption case
-- management memo, methodology, interview concepts and LinkedIn draft
+- management memo, methodology, concept guide and official source list
 - automated validation tests
 
 Possible next extensions with richer data:
