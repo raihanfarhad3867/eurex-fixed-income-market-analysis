@@ -1,0 +1,12 @@
+metric,value,unit
+FGBS roll-month uplift vs non-roll average,118.37495382964845,%
+FGBM roll-month uplift vs non-roll average,61.17118817564106,%
+FGBL roll-month uplift vs non-roll average,59.369109708151434,%
+German curve Jan-Aug total volume,553736896.0,contracts
+German curve Jan-Aug ADV,3276549.680473373,contracts/day
+FGBS share of German Jan-Aug volume,29.375367286343874,%
+FGBM share of German Jan-Aug volume,31.333761079196716,%
+FGBL share of German Jan-Aug volume,39.29087163445941,%
+FGBL share of selected 10Y sovereign volume,64.96457702852125,%
+FBTP share of selected 10Y sovereign volume,19.347071463253794,%
+FOAT share of selected 10Y sovereign volume,15.68835150822496,%
